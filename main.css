@@ -95,6 +95,7 @@ main{
 .nav-greaeg{
     display:flex;
     justify-content: center;
+    gap:20px;
 }
 .but-dcaev{
     height: 50px;
